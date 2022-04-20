@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dceae1ae-145c-4b5b-9310-c340e7dd5809" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crwn-clothing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.old.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/crown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/shopping-bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-item/cart-item.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-item/cart-item.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/checkout-item/checkout-item.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collections-overview/collection-overview.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collections-overview/collections-overview.container.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/collections-overview/collections-overview.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form-input/form-input.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/with-spinner/with-spinner.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/with-spinner/with-spinner.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/collection/collection.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/collection/collection.container.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/collection/collection.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/homepage/homepage.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/homepage/homepage.syles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/shop/shops.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/shop/shops.types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.sagas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/directory/directory.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/directory/directory.selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.sagas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop.selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.reducer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.sagas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/user/user.types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e3a4d144-e114-41a9-9b21-3e9fab461b5d" />
+        <option name="url" value="https://github.com/aditya-exe/crwn-clothing.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w1YaM2SxasGP4L3W71d9pdzKBu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aditya\Documents\Projects\React\crwn-clothing\client" />
+      <recent name="C:\Users\Aditya\Documents\Projects\React\crwn-clothing\src\redux\shop" />
+      <recent name="C:\Users\Aditya\Documents\Projects\React\crwn-clothing\src\pages\homepage" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="index.html" />
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dceae1ae-145c-4b5b-9310-c340e7dd5809" name="Changes" comment="" />
+      <created>1627627626378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627627626378</updated>
+      <workItem from="1627627629272" duration="7540000" />
+      <workItem from="1627670153646" duration="1086000" />
+      <workItem from="1627714976371" duration="4225000" />
+      <workItem from="1627727928701" duration="8194000" />
+      <workItem from="1627800255354" duration="6713000" />
+      <workItem from="1627838637351" duration="582000" />
+      <workItem from="1627914355552" duration="2831000" />
+      <workItem from="1627974439189" duration="5048000" />
+      <workItem from="1627998260662" duration="6183000" />
+      <workItem from="1628161733180" duration="7796000" />
+      <workItem from="1628261003930" duration="586000" />
+      <workItem from="1628357206440" duration="212000" />
+      <workItem from="1628357461502" duration="3655000" />
+      <workItem from="1628404313828" duration="1006000" />
+      <workItem from="1628414117483" duration="1818000" />
+      <workItem from="1628494079685" duration="2395000" />
+      <workItem from="1628579031544" duration="3735000" />
+      <workItem from="1628691525509" duration="4367000" />
+      <workItem from="1628697388628" duration="7618000" />
+      <workItem from="1628743900118" duration="8170000" />
+      <workItem from="1629137877544" duration="3706000" />
+      <workItem from="1629304246281" duration="2421000" />
+      <workItem from="1629347374417" duration="2618000" />
+      <workItem from="1629464140339" duration="873000" />
+      <workItem from="1631946042655" duration="4397000" />
+      <workItem from="1631961910016" duration="1163000" />
+      <workItem from="1631994698608" duration="1826000" />
+      <workItem from="1635449553364" duration="1206000" />
+      <workItem from="1635499638958" duration="1891000" />
+      <workItem from="1641149300692" duration="2474000" />
+      <workItem from="1641193143726" duration="6928000" />
+      <workItem from="1641488537877" duration="49000" />
+      <workItem from="1641543218020" duration="2429000" />
+      <workItem from="1641650422265" duration="1516000" />
+      <workItem from="1641662068357" duration="1012000" />
+      <workItem from="1641886940446" duration="9624000" />
+      <workItem from="1641903835025" duration="6307000" />
+      <workItem from="1641976692385" duration="1471000" />
+      <workItem from="1642183806882" duration="1766000" />
+      <workItem from="1642229710594" duration="3489000" />
+      <workItem from="1642245110238" duration="650000" />
+      <workItem from="1643307175648" duration="5694000" />
+      <workItem from="1643556224823" duration="1764000" />
+      <workItem from="1644174015686" duration="1429000" />
+      <workItem from="1644395501809" duration="465000" />
+      <workItem from="1644678459006" duration="583000" />
+      <workItem from="1645888288129" duration="579000" />
+      <workItem from="1645959982748" duration="320000" />
+      <workItem from="1646125680544" duration="2213000" />
+      <workItem from="1646227957722" duration="4523000" />
+      <workItem from="1646838782517" duration="123000" />
+      <workItem from="1649751738990" duration="574000" />
+      <workItem from="1649755414823" duration="7590000" />
+      <workItem from="1649835242571" duration="286000" />
+      <workItem from="1649919336108" duration="1779000" />
+      <workItem from="1649941743079" duration="1929000" />
+      <workItem from="1649996378610" duration="10865000" />
+      <workItem from="1650024181002" duration="7830000" />
+      <workItem from="1650087524353" duration="8344000" />
+      <workItem from="1650121358862" duration="597000" />
+      <workItem from="1650172856305" duration="220000" />
+      <workItem from="1650187828218" duration="39000" />
+      <workItem from="1650275710518" duration="1411000" />
+      <workItem from="1650393558589" duration="3155000" />
+      <workItem from="1650443321515" duration="80000" />
+      <workItem from="1650443475933" duration="562000" />
+      <workItem from="1650444045955" duration="1414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
