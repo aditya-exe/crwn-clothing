@@ -1,16 +1,17 @@
-import React from 'react'
-import {CartIconContainer, ItemCountContainer} from "../cart-icon/cart-icon.styles";
-import {CartItemImage} from "./cart-item.styles";
+import React from 'react';
 
+import {CartItemContainer, CartItemImage, ItemDetailsContainer} from './cart-item.styles';
 
 const CartItem = ({item: {imageUrl, price, name, quantity}}) => (
-    <CartIconContainer>
-        <CartItemImage src={imageUrl} alt={'item'}/>
-        <ItemCountContainer>
+    <CartItemContainer>
+        <CartItemImage src={imageUrl} alt='item'/>
+        <ItemDetailsContainer>
             <span>{name}</span>
-            <span>{quantity} x ${price}</span>
-        </ItemCountContainer>
-    </CartIconContainer>
-)
+            <span>
+        {quantity} x ${price}
+      </span>
+        </ItemDetailsContainer>
+    </CartItemContainer>
+);
 
-export default CartItem
+export default CartItem;

@@ -1,9 +1,8 @@
 import React from 'react';
-import {FormInputContainer, FormInputLabel, GroupContainer} from "./form-input.styles";
 
+import {FormInputContainer, FormInputLabel, GroupContainer} from './form-input.styles';
 
-
-const FormInput = ({ handleChange, label, ...props }) => (
+const FormInput = ({handleChange, label, ...props}) => (
     <GroupContainer>
         <FormInputContainer onChange={handleChange} {...props} />
         {label ? (
@@ -12,6 +11,6 @@ const FormInput = ({ handleChange, label, ...props }) => (
             </FormInputLabel>
         ) : null}
     </GroupContainer>
-)
+);
 
-export default FormInput
+export default FormInput;
