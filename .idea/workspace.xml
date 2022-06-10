@@ -3,24 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dceae1ae-145c-4b5b-9310-c340e7dd5809" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/11.1 crwn-512x512.png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/11.3 crwn-192x192.png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/cart-item/cart-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/cart-item/cart-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/error-boundary/error-boundary.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/error-boundary/error-boundary.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/error-boundary/error-boundary.styles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/error-boundary/error-boundary.styles.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/spinner/spinner.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/spinner/spinner.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/spinner/spinner.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/spinner/spinner.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/with-spinner/with-spinner.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/with-spinner/with-spinner.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/shop/shop.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/shop/shop.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/shop/shop.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../graphql-lesson" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tailwind/Apple-UI" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -181,7 +167,9 @@
       <workItem from="1652382494943" duration="12408000" />
       <workItem from="1652446964485" duration="1492000" />
       <workItem from="1652454122014" duration="3700000" />
-      <workItem from="1652520935498" duration="1976000" />
+      <workItem from="1652520935498" duration="3667000" />
+      <workItem from="1652714915439" duration="37000" />
+      <workItem from="1654897055037" duration="726000" />
     </task>
     <servers />
   </component>

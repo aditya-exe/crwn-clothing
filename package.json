@@ -2,7 +2,7 @@
   "name": "crwn-clothing-server",
   "version": "1.0.0",
   "engines": {
-    "node": "10.15.3",
+    "node": "16.15.1",
     "npm": "6.4.1"
   },
   "scripts": {
@@ -19,6 +19,7 @@
     "dotenv": "7.0.0",
     "express": "^4.16.4",
     "express-sslify": "^1.2.0",
+    "next": "^12.1.6",
     "stripe": "6.28.0"
   },
   "devDependencies": {
